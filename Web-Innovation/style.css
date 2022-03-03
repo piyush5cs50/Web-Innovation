@@ -1,0 +1,14 @@
+
+
+#background:hover{
+    background-color:gray;
+}
+#parallax{
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+#box:hover{
+    background-color: gray;
+}
